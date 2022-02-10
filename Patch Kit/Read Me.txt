@@ -1,0 +1,83 @@
+DEAD-WIRE | Assistance provided by Waffles@Discord  |
+_____________|___________________________________________|
+
+1.1 Things to keep in mind:
+
+	This tutorial is intended for users on a machine running windows  7+
+	
+	Players must be on the same server to be able to play together.
+
+	In game profiles must be made specifically for use on both the server options:
+	If they are not DATA from Wiimmfi can clash with Zwei's for example.
+ 
+	Dolphin users must use the Unbanner Tool, or aqquire a legitimate Wii NAND:
+	Not required for Zwei.
+
+	Once you have installed Wiimms ISO Tools please restart your computer.
+
+	When using the Wiimmfi unbanner ensure dolphin is closed!
+
+1.2 What I recomend you do is:
+
+	Create a file and store a completely unmodded/clean copy of your game ISO in it.
+
+	Copy it twice and patch both ISO's one for each server, this saves headaches when:
+	server jumping.
+
+	Configure windows explorer to show file extensions:
+	1. Open File Explorer
+	2. Click on the View Tab at the top of the Window
+	3. Check File Extensions	
+
+	Keep this READ ME.txt file, you can always referance it later.
+	
+1.3 Using the batch program:
+
+	The batch program was scripted in order to work with Drag And Drop so, place it in the same:
+	place as your game ISO location.
+
+	Drag the ISO over the .bat file
+	
+	Read the on screen instructions, you will be prompted to type A or B depending on what:
+	server you want your game to be patched with.
+
+	Once you have made that choice the script will run a WIT command and start preforming:
+	the patch on your game,.
+
+	IF the batch script posts an error or crashes OPEN CMD and type WIT:
+	 a flag screen showing ASCII art of the title WIT should appear, if not re-install Whimms: 
+	then reboot.
+	
+
+1.4 Preparing your game after the patch:
+
+	Once the patch is complete you will have to do one or two things depending on the server:
+	you choose.
+
+	FOR WIIMMFI:
+	1. Close all instances of dolphin
+	2. Run the UNBANNER program
+	3.Start up your game.
+	4.Create a NEW save file.
+	5.Access the online functions of the game in order to save data to the WIIMMFI server.
+	6. Finished .
+	NOTE: Part one is skippable if you have a LEGIT NAND loaded in your dolphin configuration.
+	NOTE: Mario Kart Wii will require a seperate patch from the Wiimmfi website
+	NOTE:  https://wiimmfi.de
+
+	FOR ZWEI (RECOMMENDED):
+	1. Start up your game
+	2. Create a NEW save file.
+	3. Access the online functions of the game in order to save data to the Zwei server.
+	4. Finished
+
+1.5 What to do if you still need help?:
+
+	If you still cannot figure out how to PATCH or CONFIGURE your Wii game for use online:
+	contact me on the BattalionWars modding discord, I'm willing to screenshare and run:
+	through the process with you. (Please make an attempt to do it yourself though.)
+
+	https://discordapp.com/invite/013DcQKkEWzADrbp0
+	https://www.reddit.com/r/battalionwarsmod/
+	DISCORD ID: ??4??4#1221
+
