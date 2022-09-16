@@ -1,0 +1,41 @@
+Control Guide (PC):
+    Left Click - Command/Transer
+    Right Click - Attack
+    Mouse 3 - Recenter
+    Mouse 4 (Page Up on Mouse) - Co-Op Mark
+    Mouse 5 (Page Down on Mouse) - Bound but unused?
+    Mouse Wheel Up - Unit Select (Up)
+    Mouse Wheel Down - Unit Select (Down)
+    Mouse - Aim (Turn Aircraft as well)
+
+    Tilda (~) - Pause Screen
+    Ctrl - Map Screen
+
+    1 - Unit Select (Left)
+    2 - Unit Select (Right)
+
+    Q - Lock-On
+    Space - Jump/Submerge/Roll
+    E - Adjust Camera
+    WASD - Movement
+
+Control Guide (XB1):
+    A - Command/Transer
+    Right Trigger - Attack
+    Mouse 3 - Recenter
+    Left Shoulder - Co-Op Mark
+    Right Shoulder - Bound but unused?
+    R-Stick - Aim (Turn Aircraft as well)
+
+    Start - Pause Screen
+    Back - Map Screen
+
+    D-Up - Unit Select (Up)
+    D-Left - Unit Select (Left)
+    D-Right - Unit Select (Right)
+    D-Down - Unit Select (Down)
+
+    Left Trigger - Lock-On
+    Left Thumb - Jump/Submerge/Roll
+    Right Thumb - Adjust Camera
+    L-Stick - Movement

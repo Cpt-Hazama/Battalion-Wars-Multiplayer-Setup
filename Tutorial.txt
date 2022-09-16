@@ -6,10 +6,16 @@ Note that this is a clean rip of the original game, this is uploaded due to shor
 3.) Watch this tutorial for how to restore multiplayer mode to the game (https://www.youtube.com/watch?v=1Q6PmeJZ678) I recommend using Zwei servers for this.
 4.) Launch the game and enjoy! Note that you must complete the tutorial and mission 5 to unlock multiplayer mode. This is good for understanding the controls of the game and adjusting to whatever configuration you have set. You can also theoretically find a save game online or use Dolphin's cheat menu to skip/speedrun the required missions.
 5.) Note that your profile name in-game will be your multiplayer name. You'll know if the MP patch worked if you connect to the main multiplayer screen.
-6.) Add me so we can play :) my in-game friend code is: (Wiimmfi - 322 723 146 329 or Zwei - (180 388 801 728 or 051 539 782 850)) (My name won't appear on your friends list until I accept, otherwise it will show my ID)
+6.) Add me so we can play :) here are my friend-codes to pick from (My name won't appear on your friends list until I accept, otherwise it will show my ID):
+    Zwei Friend Codes:
+        Hazama (Main Account) - 322 723 146 329
+        HaZwei (Secondary Account) - 179 093 846 860
+
+    Wiimmfi Friend Codes:
+        HazamaW (Main Account, I never play on Wiimmfi so avoid adding this) - 541 767 711 962
 
 Additional Note:
-If you are receiving error code 60000 anytime after the first time you login to multiplayer, then:
+If you are receiving error code 60000 anytime after the first time you login to multiplayer AND you're playing on Zwei, then:
 1.) Go to Dolphin (First make sure you have cheats enabled)
 2.) Right click on the game and go to 'Properties'
 3.) Go to Gecko Codes
@@ -26,3 +32,9 @@ If you are receiving error code 60000 anytime after the first time you login to 
     90640020 00000000
     044699b4 48000070
 6.) Save the code and make sure its enabled. Now anytime you login to multiplayer, it will work.
+
+If you are receiving error code 23918 AND you're playing on Wiimmfi, then:
+1.) Open the Wiimmfi Unbanner program (a command prompt window will open)
+2.) Go to  'C:\Users\YourOSUserName\Documents\'
+3.) Drag your 'Dolphin Emulator' folder onto the command prompt window
+4.) Let it run and it should unban your account. I've heard that it takes up to 24 hours for it to take effect but, I don't use Wiimmfi so I can't confirm this.
